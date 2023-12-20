@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6583397d12464c610f107122"
+  },
+  "name": "Charlie Owen",
+  "age": 37,
+  "position": "Fitness Coach"
+},
+{
+  "_id": {
+    "$oid": "65833a2d12464c610f107125"
+  },
+  "name": "Erik Ten Hag",
+  "age": 53,
+  "position": "Head Coach"
+}]
